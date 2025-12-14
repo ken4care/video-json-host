@@ -1,2 +1,9 @@
-# video-json-host
-Build Inner Pages: We can now create the "Movies" or "TV Shows" pages, potentially reusing the VideoGrid component you had before.
+// Movies
+fetch("https://YOUR_USERNAME.github.io/video-json-host/movies.json")
+  .then(res => res.json())
+  .then(data => setMovies(data.movies));
+
+// TV Shows
+fetch("https://YOUR_USERNAME.github.io/video-json-host/tv.json")
+  .then(res => res.json())
+  .then(data => setShows(data.shows));
