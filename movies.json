@@ -1,0 +1,16 @@
+{
+  "movies": [
+    {
+      "title": "The Great Escape",
+      "description": "Classic adventure movie in public domain.",
+      "thumbnail": "https://i.imgur.com/1N8ZQyN.jpeg",
+      "video": "https://www.youtube.com/embed/5B0Z9r4N_sQ"
+    },
+    {
+      "title": "Night of the Living Dead",
+      "description": "Public domain horror classic.",
+      "thumbnail": "https://i.imgur.com/2VNL3TJ.jpeg",
+      "video": "https://www.youtube.com/embed/0TAGtIQvebs"
+    }
+  ]
+}
