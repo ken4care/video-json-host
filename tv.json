@@ -1,0 +1,16 @@
+{
+  "shows": [
+    {
+      "title": "Sherlock Holmes (1954)",
+      "description": "Public domain detective TV series.",
+      "thumbnail": "https://i.imgur.com/8VJ3J1P.jpeg",
+      "video": "https://www.youtube.com/embed/i3VYqf-Y7RA"
+    },
+    {
+      "title": "Dragnet (1951)",
+      "description": "Classic crime investigation show.",
+      "thumbnail": "https://i.imgur.com/f6zW8qD.jpeg",
+      "video": "https://www.youtube.com/embed/8oc8oQyUJfY"
+    }
+  ]
+}
